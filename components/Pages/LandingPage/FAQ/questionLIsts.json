@@ -1,0 +1,52 @@
+[
+  {
+    "title": "What is Bitbot?",
+    "answer": 
+      "Bitbot is a non-custodial Telegram trading bot crafted to level the financial playing field, arming users with institutional-grade tools in a secure, easy-to-use package. It allows users to trade directly from Telegram while maintaining full control of their assets."
+    
+  },
+  {
+    "title": "How does Bitbot ensure the security of my assets?",
+    "answer": "Bitbot integrates with self-custodial wallets, meaning you retain complete control over your keys and assets. It employs KnightSafe, a system offering decentralized, rigorous security for your trading activities."
+  },
+  {
+    "title": "What kind of investments is Bitbot best at?",
+    "answer": "Bitbot is designed to accommodate investments across all scales. Its self-custodial approach ensures secure handling of larger investments, and its versatile features are equally effective for managing smaller investment amounts."
+  },
+  {
+    "title": "What trading tools does Bitbot offer?",
+    "answer": "Bitbot provides the level of performance previously reserved for institutional traders, including automated sniping, limit orders, copy trading, and yield optimization. These tools are accessible to all users, regardless of their trading experience."
+  },
+  {
+    "title": "Is the Bitbot project Audited?",
+    "answer": "Absolutely! Our project and team have undergone a thorough audit by Solid Proof. For detailed insights and findings, feel free to explore the results on the Solid Proof website."
+  },
+  {
+    "title": "What are the supported networks?",
+    "answer": "Bitbot supports Ethereum and Solana, with plans to strategically expand to other L2s."
+  },
+  {
+    "title": "How does Bitbot integrate with Telegram?",
+    "answer": "Bitbot operates directly within Telegram, allowing users to execute trades using Telegram mini apps interface. This integration makes trading accessible and convenient for Telegram's vast user base."
+  },
+  {
+    "title": "What is the $BITBOT token, and what are its benefits?",
+    "answer": "The $BITBOT token is a utility coin integral to Bitbot's platform. It offers benefits like revenue sharing, exclusive access to presales, unique perks, and airdrops, and a say in Bitbot's strategic direction through governance."
+  },
+  {
+    "title": "How can I participate in the Bitbot community?",
+    "answer": "To begin using Bitbot, import or create a smart contract wallet directly via Telegram. Bitbot will execute trades with precision while you maintain complete control."
+  },
+  {
+    "title": "What are the future plans for Bitbot?",
+    "answer": "Bitbot aims to expand its presence by integrating with decentralized and centralized exchanges, continuously innovating to keep pace with DeFi trends, and enhancing its trading technology."
+  },
+  {
+    "title": "How can I start using Bitbot?",
+    "answer": "To begin using Bitbot, import or create a smart contract wallet directly via Telegram. Bitbot will execute trades with precision while you maintain complete control."
+  },
+  {
+    "title": "Where can I check my $BITBOT tokens?",
+    "answer": "You can check the amount of $BITBOT tokens you’ve purchased on our website, ensuring a smooth and transparent process. Once the presale period is over, you can claim your $BITBOT tokens via our official website."
+  }
+]

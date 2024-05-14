@@ -1,0 +1,32 @@
+[
+  {
+    "image": "bulldozer.gif",
+    "title": "Now",
+    "content": [
+      "Founding team formation",
+      "Smart contract development",
+      "Community formation",
+      "Marketing ramp up"
+    ]
+  },
+  {
+    "image": "rocket.gif",
+    "title": "Next",
+    "content": [
+      "$BITBOT token launch",
+      "Listing on DEXes and CEXes",
+      "Top influencer partnership",
+      "Telegram bot launch"
+    ]
+  },
+  {
+    "image": "robot.gif",
+    "title": "Beyond",
+    "content": [
+      "Bitbot native mobile app",
+      "Cross chain support",
+      "Enhanced community features",
+      "Enhanced liquidity"
+    ]
+  }
+]
